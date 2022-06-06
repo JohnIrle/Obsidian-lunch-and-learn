@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf5432bf4d8b3fd",
+        "id": "59c96153127aa630",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Obsidian Theme Demo File.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#progress/in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298
   },
   "right": {
     "id": "f12b58566a84afa1",
@@ -60,11 +64,53 @@
         "type": "tabs",
         "children": [
           {
+            "id": "298f458a76fa4941",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Obsidian Theme Demo File.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c97245b712a07c86",
+        "type": "tabs",
+        "children": [
+          {
             "id": "f23b0c3821d92493",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Obsidian Theme Demo File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,9 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0bf5432bf4d8b3fd",
-  "lastOpenFiles": []
+  "active": "59c96153127aa630",
+  "lastOpenFiles": [
+    "Notes/Obsidian Theme Demo File.md",
+    "Slides Demo.md",
+    "Notes/Queries.md",
+    "Notes/Math.md",
+    "Notes/Embedding.md",
+    "Home.md",
+    "Notes/Callout Reference.md",
+    "Notes/Tags.md",
+    "Readwise/Books/The Lean Startup.md",
+    "Notes/Code blocks.md"
+  ]
 }
