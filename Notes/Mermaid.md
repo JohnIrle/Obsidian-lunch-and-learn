@@ -1,4 +1,4 @@
-### Mermaid Diagrams
+# [[Mermaid]]
 
 <pre><code>```mermaid
 sequenceDiagram
