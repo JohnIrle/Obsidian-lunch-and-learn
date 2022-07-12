@@ -1,3 +1,5 @@
+[[Home]]
+
 # Code Blocks
 
 Internally uses prismjs. All supported languages can be found [here](https://prismjs.com/#supported-languages)
