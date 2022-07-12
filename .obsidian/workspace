@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readwise/Books/The Lean Startup.md",
+            "file": "Home.md",
             "mode": "source",
             "source": false
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Readwise/Books/The Lean Startup.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Books/The Lean Startup.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "fa36aa530bbd6fa0",
   "lastOpenFiles": [
-    "Readwise/Books/The Lean Startup.md",
     "Home.md",
+    "Notes/CSS Snippets.md",
+    "Notes/Shorthand CSS Rules Change Several Values.md",
+    "Notes/The CSS Mindset.md",
+    "Readwise/Books/The Lean Startup.md",
     "Notes/Andy's Mode.md",
     "Notes/Maps of Content.md",
     "Notes/CSS MOC.md",
     "Notes/Math.md",
-    "Notes/Note List Example.md",
-    "Notes/Dataview.md",
-    "Notes/Embedding.md",
-    "Notes/Rem Unit.md"
+    "Notes/Note List Example.md"
   ]
 }
