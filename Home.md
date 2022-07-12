@@ -4,7 +4,9 @@
 - [[Code blocks]]
 - [[Callout Reference|Callouts]]
 - [[Mermaid]]
-- Themes
+- Themes 
+- [[Andy's Mode]]
+- [[CSS Snippets]]
 - [[Embedding]]
 - Using [[Links]]
 - Using [[Tags]]
@@ -19,7 +21,6 @@
 - Suggested plugins
   - [[Templater]]
   - [[Dataview]]
-  - [[Andy's Mode]]
   - [[The Lean Startup|Readwise]]
 - Obsidian Sync
 - Sync with github.
