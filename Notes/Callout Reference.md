@@ -1,3 +1,5 @@
+[[Home]]
+
 # [[Callout Reference]]
 
 > [!NOTE] 

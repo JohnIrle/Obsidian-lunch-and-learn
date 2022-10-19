@@ -1,3 +1,5 @@
+[[Home]]
+
 # Tags
 
 Useful for topics
@@ -15,3 +17,5 @@ Very useful when using  the [[Dataview]] plugin.
 Make sure to activate the tag pane core plugin to quickly search on tags.
 
 ![[tagpane.png|400]]
+
+Topic:: #topic/lunchandlearn

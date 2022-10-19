@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "59c96153127aa630",
+        "id": "fa36aa530bbd6fa0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Obsidian Theme Demo File.md",
+            "file": "Home.md",
             "mode": "source",
             "source": false
           }
@@ -40,12 +40,23 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#progress/in-progress",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cd86aec2c236a22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -69,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Obsidian Theme Demo File.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Obsidian Theme Demo File.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +136,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "59c96153127aa630",
+  "active": "fa36aa530bbd6fa0",
   "lastOpenFiles": [
-    "Notes/Obsidian Theme Demo File.md",
-    "Slides Demo.md",
-    "Notes/Queries.md",
-    "Notes/Math.md",
-    "Notes/Embedding.md",
     "Home.md",
-    "Notes/Callout Reference.md",
-    "Notes/Tags.md",
+    "Notes/CSS Snippets.md",
+    "Notes/Shorthand CSS Rules Change Several Values.md",
+    "Notes/The CSS Mindset.md",
     "Readwise/Books/The Lean Startup.md",
-    "Notes/Code blocks.md"
+    "Notes/Andy's Mode.md",
+    "Notes/Maps of Content.md",
+    "Notes/CSS MOC.md",
+    "Notes/Math.md",
+    "Notes/Note List Example.md"
   ]
 }

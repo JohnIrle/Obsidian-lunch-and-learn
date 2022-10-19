@@ -1,0 +1,14 @@
+# [[Rem Unit]]
+
+- Rem is a unit that stands for root em. It is similar to the [[Em Unit]] but based upon the font-size value of the html element which is the root element of any html document. If the html element does not have a font-size set then the default from the browser is used (usually 16px).
+
+---
+
+## Additional Metadata
+
+- Related:: [[CSS MOC|CSS]]
+
+**🏷 Tags**
+
+- 🗂 Type(s):: #type/note
+- 💬 Topic(s):: #topic/css
