@@ -19,7 +19,6 @@
 - Suggested plugins
   - [[Templater]]
   - [[Dataview]]
-  - Andy Mode
   - Readwise
 - Obsidian Sync
 - Sync with github.
