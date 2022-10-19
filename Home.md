@@ -5,7 +5,6 @@
 - [[Callout Reference|Callouts]]
 - [[Mermaid]]
 - Themes 
-- [[Andy's Mode]]
 - [[CSS Snippets]]
 - [[Embedding]]
 - Using [[Links]]
