@@ -7,8 +7,6 @@ alias:
 - "<% moment(tp.file.title).format("dddd Do MMMM, YYYY") %>"
 ---
 
-# [[<% tp.file.title %>|<% moment(tp.file.title).format("MMMM Do, YYYY") %>]]
-
 ## What do you plan to do today?
 
 ## What did you accomplish today?
