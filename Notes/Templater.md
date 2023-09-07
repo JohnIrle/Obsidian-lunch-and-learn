@@ -1,6 +1,6 @@
-[[Home]]
-
-# [[Templater]]
+---
+up: "[[Home]]"
+---
 
 A powerful templating system that allows templates to be composed, specified by folder and conditional logic for template picking.
 

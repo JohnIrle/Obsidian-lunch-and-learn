@@ -1,6 +1,6 @@
-[[Home]]
-
-# Note List Example
+---
+up: "[[Home]]"
+---
 
 
 ```dataview

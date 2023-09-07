@@ -1,1 +1,5 @@
-[]
+[
+  "dataview",
+  "templater-obsidian",
+  "tag-wrangler"
+]

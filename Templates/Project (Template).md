@@ -1,8 +1,6 @@
 <% tp.file.include('[[Frontmatter (Section Template)]]') %>
 
 
-# [[<% tp.file.title %>]]
-
 ## ℹ️ About
 
 - 🕰 Estimated Time:: 

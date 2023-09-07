@@ -1,4 +1,7 @@
-# [[Mermaid]]
+---
+up: "[[Home]]"
+---
+
 
 <pre><code>```mermaid
 sequenceDiagram

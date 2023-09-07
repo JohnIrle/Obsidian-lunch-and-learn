@@ -1,6 +1,7 @@
-[[CSS MOC]]
-
-# [[The CSS Mindset]]
+---
+topics:
+  - "[[CSS MOC|CSS]]"
+---
 
 - Everything is a rectangle
 - No point in declaring width: 100% on a block-level element

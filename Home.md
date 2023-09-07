@@ -1,8 +1,9 @@
-# Home
 
 - [[Obsidian Theme Demo File|Markdown]]
-- [[Code blocks]]
 - [[Callout Reference|Callouts]]
+- [[Code blocks]]
+- [[Properties]]
+- [[Canvas]]
 - [[Mermaid]]
 - Themes 
 - [[CSS Snippets]]

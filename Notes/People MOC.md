@@ -1,6 +1,7 @@
-[[Home]]
-
-# [[People MOC|People]]
+---
+up: "[[Home]]"
+tags:
+  - type/MOC
+---
 
 - [[People/@Eric Ries|Eric Ries]]
-- 

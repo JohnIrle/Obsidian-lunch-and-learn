@@ -1,6 +1,7 @@
-[[Home]]
+---
+up: "[[Home]]"
+---
 
-# [[Callout Reference]]
 
 > [!NOTE] 
 > Here's a callout block.

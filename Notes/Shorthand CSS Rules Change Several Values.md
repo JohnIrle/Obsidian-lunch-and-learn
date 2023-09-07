@@ -1,4 +1,10 @@
-# [[Shorthand CSS Rules Change Several Values]]
+---
+topics:
+  - "[[CSS MOC|CSS]]"
+series: "[[The CSS Mindset]]"
+tags:
+  - source/example
+---
 
 Shorthands have long effects
 ```css 
@@ -18,17 +24,6 @@ background-attachment: scroll;
 ---
 
 ## Additional Metadata
-
-- Related:: [[CSS MOC|CSS]]
-
-**🧰 Attributes**
-
-- 📚 Series:: [[The CSS Mindset]]
-
-**🏷 Tags**
-
-- 🗂 Type(s):: #source/example 
-- 💬 Topic(s):: #topic/css
 
 **🖇️ Related Links**
 

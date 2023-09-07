@@ -1,4 +1,7 @@
-# [[CSS  borders can be used to draw a triangle]] 
+---
+topics: "[[CSS MOC|CSS]]"
+---
+
 
 ```css
 div {
@@ -10,12 +13,3 @@ div {
 }
 ```
 
----
-
-## Additional Metadata
-- Related:: [[CSS MOC|CSS]]
-
-**🏷 Tags**
-
-- 🗂 Type(s):: #type/example
-- 💬 Topic(s):: #topic/css

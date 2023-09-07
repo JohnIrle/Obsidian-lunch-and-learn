@@ -1,6 +1,7 @@
-[[Home]]
+---
+up: "[[Home]]"
+---
 
-# [[Math]]
 
 ```md
 $$\begin{vmatrix}a & b\\

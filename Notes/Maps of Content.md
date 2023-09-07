@@ -1,4 +1,6 @@
-# [[Maps of Content]]
+---
+up: "[[Home]]"
+---
 
 - An Idea popularized by [[@Nick Milo]] in the Linking Your Thinking Obsidian template.
 - A hub that connects a topic or concept.

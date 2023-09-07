@@ -1,11 +1,8 @@
 ---
 uuid: <% tp.date.now("YYYYMMDDHHmmss") %>
 created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
-updated: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
-alias: 
+aliases: []
 ---
-
-# [[<% tp.file.title %>]]
 
 
 ## 📋 Tasks
