@@ -1,6 +1,6 @@
-[[Home]]
-
-# [[CSS Snippets]]
+---
+up: "[[Home]]"
+---
 
 - Obsidian supports css snippets that add styles on top of the current theme.
 - A good way to customize without building your own theme. 

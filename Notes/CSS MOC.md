@@ -1,6 +1,10 @@
-[[Maps of Content]]
-
-# CSS MOC
+---
+up: "[[Maps of Content]]"
+aliases:
+  - CSS
+tags:
+  - type/MOC
+---
 
 - [[CSS  borders can be used to draw a triangle]]
 - [[The CSS Mindset]]
@@ -13,10 +17,3 @@
 - Do one thing 
 - Only have one declaration
 - Allow things to be more modular, which leads to less code in the long run
-
----
-
-## 📇 Additional Metadata
-
-- 🗂 Type:: #type/MOC
-- 💬 Topic(s):: #topic/css

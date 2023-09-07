@@ -1,6 +1,8 @@
-[[Home]]
-
-# [[Andy's Mode]]
+---
+up: "[[Home]]"
+---
+> [!WARNING] 
+> This is now a core feature of Obsidian. You can click the down arrow at the end of the tab bar and click `Stack Tabs`
 
 - A plugin that emulates the format of [Andy Matuschaks](https://notes.andymatuschak.org/Evergreen_notes) Evergreen notes.
 - A nice UX improvement for Obsidian.

@@ -1,10 +1,11 @@
 ---
 uuid: 20220712081757
 created: 2022-07-12T08:17:57
-updated: 2022-07-12T08:17:57
-alias: 
-- "Eric"
-- "Eric Ries"
+tags:
+  - people
+aliases:
+  - Eric
+  - Eric Ries
 ---
 
 # [[@Eric Ries|Eric Ries]]
@@ -21,9 +22,3 @@ alias:
 ## 📝 Notes
 
 - 
-
----
-
-## 📇 Additional Metadata
-
-- 🗂 Type:: #people

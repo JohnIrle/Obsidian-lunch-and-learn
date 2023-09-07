@@ -1,4 +1,6 @@
-[[Home]]
+---
+up: "[[Home]]"
+---
 
 Obsidian is a Markdown-based note-taking and knowledge base app. 
 

@@ -1,11 +1,14 @@
-# The Lean Startup
+---
+author: "[[@Eric Ries]]"
+full-title: The Lean Startup
+type: "[[Book]]"
+tags:
+  - source/book
+---
+
+
 
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51N-u8AsmdL._SL200_.jpg)
-
-## Metadata
-- Author:: [[@Eric Ries]]
-- Full Title:: The Lean Startup
-- Category:: #source/book
 
 ## Highlights
 - The grim reality is that most startups fail. Most new products are not successful. Most new ventures do not live up to their potential. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B004J4XGN6&location=114))
