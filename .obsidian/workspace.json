@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "70e10cad1dcae996",
+        "id": "7ec52e9f17bcd474",
         "type": "tabs",
         "children": [
           {
-            "id": "59c96153127aa630",
+            "id": "e64abf449393e046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -48,12 +49,41 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#progress/in-progress",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "034ab8ae9624ff08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2a83a9df2e5c025",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e894a465415b2f99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -135,20 +165,46 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
+    }
   },
-  "active": "59c96153127aa630",
+  "active": "e64abf449393e046",
   "lastOpenFiles": [
-    "Notes/Obsidian Theme Demo File.md",
-    "Slides Demo.md",
-    "Notes/Queries.md",
-    "Notes/Math.md",
-    "Notes/Embedding.md",
+    "Templates/People (Template).md",
     "Home.md",
-    "Notes/Callout Reference.md",
-    "Notes/Tags.md",
+    "Notes/Canvas.md",
+    "Notes/Canvas Example.canvas",
+    "media/tagpane.png",
+    "Notes/Properties.md",
+    "Templates/Starter Note (Template).md",
+    "Templates/Weekly Note (Template).md",
+    "Templates/Youtube (Template).md",
+    "Templates/Frontmatter (Section Template).md",
+    "Templates/Project (Template).md",
+    "Templates/Meeting Log  (Template).md",
+    "Templates/Footer - Manifest - Section Template.md",
+    "Templates/Daily Note Native Template.md",
+    "Templates/Daily Note (Template).md",
+    "Templates/Book (Template).md",
+    "Templates/Base Note (Template).md",
     "Readwise/Books/The Lean Startup.md",
-    "Notes/Code blocks.md"
+    "People/@Eric Ries.md",
+    "Notes/Maps of Content.md",
+    "Notes/CSS MOC.md",
+    "Notes/Embedding.md",
+    "Notes/Dataview.md",
+    "Notes/The CSS Mindset.md",
+    "Notes/Templater.md",
+    "Notes/Tags.md",
+    "Notes/Shorthand CSS Rules Change Several Values.md",
+    "media/Screen Shot 2022-07-12 at 9.42.31 AM.png",
+    "media/Screen Shot 2022-07-12 at 8.37.51 AM.png"
   ]
 }
