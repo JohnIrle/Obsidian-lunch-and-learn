@@ -10,5 +10,5 @@ up: "[[Home]]"
 - Natually form nice hubs in your graph view. 
 
 ### Examples
-- [[People MOC]]
-- [[CSS MOC]]
+- [[People]]
+- [[CSS]]

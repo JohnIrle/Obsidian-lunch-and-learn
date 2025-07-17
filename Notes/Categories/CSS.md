@@ -1,7 +1,6 @@
 ---
 up: "[[Maps of Content]]"
-aliases:
-  - CSS
+aliases: []
 tags:
   - type/MOC
 ---
