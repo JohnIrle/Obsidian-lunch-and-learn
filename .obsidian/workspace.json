@@ -15,8 +15,17 @@
               "state": {
                 "file": "Home.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Home"
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"topics\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +91,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -193,35 +205,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e27cdbaaa5dd9a1e",
+  "active": "e64abf449393e046",
   "lastOpenFiles": [
-    "Templates/People (Template).md",
-    "Home.md",
-    "Notes/Canvas.md",
     "Notes/Canvas Example.canvas",
-    "media/tagpane.png",
-    "Notes/Properties.md",
-    "Templates/Starter Note (Template).md",
-    "Templates/Weekly Note (Template).md",
-    "Templates/Youtube (Template).md",
-    "Templates/Frontmatter (Section Template).md",
-    "Templates/Project (Template).md",
-    "Templates/Meeting Log  (Template).md",
-    "Templates/Footer - Manifest - Section Template.md",
-    "Templates/Daily Note Native Template.md",
-    "Templates/Daily Note (Template).md",
-    "Templates/Book (Template).md",
-    "Templates/Base Note (Template).md",
-    "Readwise/Books/The Lean Startup.md",
-    "People/@Eric Ries.md",
-    "Notes/Maps of Content.md",
-    "Notes/CSS MOC.md",
-    "Notes/Embedding.md",
+    "Notes/Andy's Mode (Depricated).md",
+    "Notes/Callout Reference.md",
+    "Notes/Canvas.md",
+    "Notes/Code blocks.md",
+    "Notes/CSS  borders can be used to draw a triangle.md",
+    "Notes/CSS Snippets.md",
     "Notes/Dataview.md",
-    "Notes/The CSS Mindset.md",
-    "Notes/Templater.md",
-    "Notes/Tags.md",
+    "Notes/Em Unit.md",
+    "Notes/Embedding.md",
+    "Notes/Maps of Content.md",
+    "Notes/Math.md",
+    "Notes/Mermaid.md",
+    "Notes/Note List Example.md",
+    "Notes/Obsidian Theme Demo File.md",
+    "Notes/Properties.md",
+    "Notes/Queries.md",
+    "Notes/Rem Unit.md",
     "Notes/Shorthand CSS Rules Change Several Values.md",
+    "Notes/Tags.md",
+    "Notes/Templater.md",
+    "Notes/The CSS Mindset.md",
+    "People/@Eric Ries.md",
+    "Readwise/Books/The Lean Startup.md",
+    "Notes/Categories/Videos.md",
+    "Notes/Categories/People.md",
+    "Notes/Categories/Untitled",
+    "Notes/Categories",
+    "media/tagpane.png",
     "media/Screen Shot 2022-07-12 at 9.42.31 AM.png",
     "media/Screen Shot 2022-07-12 at 8.37.51 AM.png"
   ]

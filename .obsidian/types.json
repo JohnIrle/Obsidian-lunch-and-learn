@@ -3,6 +3,12 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "topics": "multitext"
+    "topics": "multitext",
+    "authors": "multitext",
+    "rating": "number",
+    "week": "text",
+    "priority": "multitext",
+    "due date": "date",
+    "created": "date"
   }
 }
