@@ -1,9 +1,13 @@
 ---
+uuid: 20241022110259
+created: 2024-10-22T11:02:59
 topics:
-  - "[[CSS MOC|CSS]]"
+  - "[[CSS|CSS]]"
 series: "[[The CSS Mindset]]"
 tags:
   - source/example
+creator: "[[@Max Böck]]"
+source: https://mxb.dev/blog/the-css-mindset/
 ---
 
 Shorthands have long effects
@@ -20,12 +24,3 @@ background-origin: padding-box;
 background-clip: border-box;
 background-attachment: scroll;
 ```
-
----
-
-## Additional Metadata
-
-**🖇️ Related Links**
-
-- 👤 Creator(s): [[@Max Böck]] 
-- 🔮 Origin: https://mxb.dev/blog/the-css-mindset/

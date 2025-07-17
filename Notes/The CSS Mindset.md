@@ -1,6 +1,10 @@
 ---
+uuid: 20241022110259
+created: 2024-10-22T11:02:59
 topics:
-  - "[[CSS MOC|CSS]]"
+  - "[[CSS|CSS]]"
+creator: "[[@Max Böck]]"
+source: https://mxb.dev/blog/the-css-mindset/
 ---
 
 - Everything is a rectangle

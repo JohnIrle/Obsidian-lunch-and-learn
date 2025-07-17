@@ -1,6 +1,8 @@
 ---
+uuid: 20241022110259
+created: 2024-10-22T11:02:59
 topics:
-  - "[[CSS MOC|CSS]]"
+  - "[[CSS|CSS]]"
 ---
 
 - Em is a unit in CSS that uses the font-size of the parent container that the value is being set from. 
