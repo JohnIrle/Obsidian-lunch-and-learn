@@ -1,9 +1,14 @@
-<% tp.file.include('[[Frontmatter (Section Template)]]') %>
+---
+uuid: <% tp.file.creation_date("YYYYMMDDHHmmss") %>
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
+type: "[[Videos]]"
+topics:
+tags:
+  - source/video
+aliases: []
+---
 
-
-# [[<% tp.file.title %>]]
-
-<iframe width="560" height="315" src="https://youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=TRgdA9_FsXM)
 
 ## Notes
 

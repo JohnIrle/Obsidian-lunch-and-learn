@@ -1,6 +1,9 @@
 ---
 uuid: <% tp.date.now("YYYYMMDDHHmmss") %>
 created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
+tags:
+  - type/timeline/weekly
+week: <% tp.date.now("ww") %>
 aliases: []
 ---
 
@@ -35,10 +38,3 @@ LIST
 FROM #type/timeline/daily
 WHERE week = [[<%tp.date.now("YYYY")%>-W<%tp.date.now("ww")%>]]
 ```
-
----
-
-## 📇 Additional Metadata
-
-- 🗂 Type:: #type/timeline/weekly
-- 🗓️ Week:: <% tp.date.now("ww") %>

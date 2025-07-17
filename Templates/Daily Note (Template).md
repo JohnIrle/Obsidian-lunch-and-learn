@@ -1,10 +1,11 @@
 ---
 uuid: <% moment(tp.file.title).format("YYYYMMDDHHmmss") %>
 created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
-updated: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
-alias: 
-- "<% moment(tp.file.title).format("MMMM Do, YYYY") %>"
-- "<% moment(tp.file.title).format("dddd Do MMMM, YYYY") %>"
+tags:
+- type/timeline/daily
+week: "[[<% moment(tp.file.title).format("YYYY-[W]ww") %>]]"
+previous: "[[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]]"
+next: "[[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]"
 ---
 
 ## What do you plan to do today?
@@ -12,10 +13,3 @@ alias:
 ## What did you accomplish today?
 
 ## What are some moments worth sharing?
-
----
-
-## 📇 Additional Metadata
-
-- 🗓️ Week:: [[<% moment(tp.file.title).format("YYYY-[W]ww") %>]]
-- 🗂 Type:: #calendar/timeline/daily

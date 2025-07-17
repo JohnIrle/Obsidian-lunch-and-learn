@@ -1,4 +1,14 @@
-<% tp.file.include('[[Frontmatter (Section Template)]]') %>
+---
+uuid: <% tp.file.creation_date("YYYYMMDDHHmmss") %>
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
+topics:
+tags:
+  - project/active
+  - status/queue
+priority:
+due date:
+aliases: []
+---
 
 
 ## ℹ️ About
@@ -10,30 +20,3 @@
 ## 🎯 Success Criteria
 
 - [ ] 
-
----
-
-## 📇 Additional Metadata
-
-**🧰 Attributes**
-
-- 🚩 Priority::
-- 🏃‍♂️ Started On::
-- 👀 Next Assessment Date::
-- 🎯 Goal Completion Date::
-- 📆 Completed On::
-
-**🏷 Tags**
-
-- 🗂 Type:: #project/active
-- 🌎 Areas:: 
-- 🙌 Team:: 
-- 🏁 Status:: #status/queue
-- 🛰 Platforms::
-
-**🖇️ Related Links**
-
-- ✨ Inspired By:: 
-- 🔮 Origin:: 
-- 🚀 PODs:: 
-- 🗺️ Locations:: 

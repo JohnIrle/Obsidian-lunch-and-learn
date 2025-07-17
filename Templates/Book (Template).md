@@ -1,6 +1,15 @@
-<% tp.file.include('[[Frontmatter (Section Template)]]') %>
+---
+uuid: <% tp.file.creation_date("YYYYMMDDHHmmss") %>
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
+tags:
+  - source/book
+topics:
+authors:
+rating:
+recommended by:
+aliases: []
+---
 
-# [[<% tp.file.title %>]]
 
 ## 📝 Notes
 
@@ -13,14 +22,4 @@
 ## ℹ️ About
 
 
-
----
-
-## 📇 Additional Metadata
-
-- 🗂 Type: #source/book
-- 👤 Authors::
-- ⭐ Rating::
-- 👍 Recommended By::
-- 💬 Topics::
 

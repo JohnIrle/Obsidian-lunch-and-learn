@@ -1,40 +1,19 @@
-
-
-## 📋 Agenda
-
-- [ ] 
-
+---
+uuid: <% tp.file.creation_date("YYYYMMDDHHmmss") %>
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
+tags:
+  - calender/event/meeting
+aliases:
+---
 
 ## 📝 Notes
 
 - 
 
-
-## ✅ Tasks
-
-- [ ] 
-
-
 ## 📚 Resources
 
 - 
 
-
 ## 👥 Participants
 
 - 
-
-
----
-
-**🏷 Tags**
-
-- 🗂 Type: #calendar/event/meeting
-- 🏁 Status: #status/upcoming
-- 💬 Topic(s): 
-
-**🖇️ Related Links**
-
-- 👤 Creator(s): 
-- 🔮 Origin: 
-- 🔗 Location: 
