@@ -19,7 +19,7 @@ up: "[[Home]]"
 
 ## YouTube
 
-![](https://youtube.com/embed/VFZNvj-HfBU)
+![](https://www.youtube.com/watch?v=TRgdA9_FsXM)
 
 ## Iframe
 
