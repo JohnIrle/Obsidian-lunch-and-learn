@@ -15,7 +15,7 @@
 - Local Graph
 - Templates
 - Use Cases
-  - [[People MOC|People]]
+  - [[People]]
   - [[Maps of Content]]
   - Developer Documentation
 - Suggested plugins
