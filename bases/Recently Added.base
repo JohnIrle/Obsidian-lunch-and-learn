@@ -1,6 +1,3 @@
-filters:
-  and:
-    - file.folder == "+"
 formulas:
   Days Alive: file.ctime.relative()
   Untitled: file.basename

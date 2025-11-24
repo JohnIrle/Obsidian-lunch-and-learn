@@ -1,11 +1,7 @@
 filters:
   and:
     - file.links.isEmpty()
-    - '!file.path.contains("Calendar")'
-    - '!file.path.contains("Utilities")'
-    - '!file.path.contains("Atlas/Maps")'
-    - '!file.path.contains("Efforts")'
-    - '!file.path.contains("+")'
+    - '!file.path.contains("media")'
 views:
   - type: table
     name: No Links

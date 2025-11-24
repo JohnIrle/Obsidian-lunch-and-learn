@@ -1,7 +1,6 @@
 filters:
   and:
-    - '!file.folder.startsWith("Atlas/Utilities")'
-    - '!file.folder.startsWith("Calendar")'
+    - '!file.folder.startsWith("media")'
 formulas:
   Age: file.mtime.relative()
 views:

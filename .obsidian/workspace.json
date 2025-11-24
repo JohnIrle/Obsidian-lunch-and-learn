@@ -11,17 +11,13 @@
             "id": "e64abf449393e046",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "Notes/Canvas Example.canvas",
-                "viewState": {
-                  "x": 715.6226160337551,
-                  "y": 390,
-                  "zoom": -1.6861655871589742
-                }
+                "file": "bases/Recently Added.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas Example"
+              "icon": "lucide-table",
+              "title": "Recently Added"
             }
           }
         ]
@@ -126,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Canvas Example.canvas",
+                "file": "bases/Recently Added.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +150,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Canvas Example"
+              "title": "Graph of Recently Added"
             }
           }
         ]
@@ -169,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Canvas Example.canvas",
+                "file": "bases/Recently Added.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Canvas Example"
+              "title": "Backlinks for Recently Added"
             }
           }
         ]
@@ -201,25 +197,27 @@
   },
   "active": "e64abf449393e046",
   "lastOpenFiles": [
+    "bases/People.base",
+    "bases/On This Day.base",
+    "bases/No Links.base",
+    "bases/Modified.base",
+    "bases/Topics.base",
+    "media/Screen Shot 2022-07-12 at 8.37.51 AM.png",
+    "bases/Recently Added.base",
+    "Notes/Canvas Example.canvas",
     "Notes/Bases.md",
     "Notes/Categories/Untitled.md",
-    "bases/Topics.base",
     "media/Screenshot 2025-11-24 at 2.46.28 PM.png",
     "Notes/Categories/CSS.md",
     "media/Screenshot 2025-11-24 at 2.40.30 PM.png",
-    "bases/No Links.base",
-    "bases/Recently Added.base",
     "Notes/Code blocks.md",
     "Notes/Canvas.md",
-    "Notes/Canvas Example.canvas",
     "Notes/Callout Reference.md",
     "Home.md",
-    "bases/Modified.base",
     "bases/Created Today.base",
     "bases/Calendar Reviews.base",
     "bases/Efforts.base",
     "bases/Lightning Rods of Thought.base",
-    "bases/On This Day.base",
     "Notes/Categories/People.md",
     "bases/Orphan Notes.base",
     "People/@Eric Ries.md",
@@ -239,9 +237,7 @@
     "Notes/Properties.md",
     "Notes/Queries.md",
     "Notes/Rem Unit.md",
-    "Notes/Shorthand CSS Rules Change Several Values.md",
     "media/tagpane.png",
-    "media/Screen Shot 2022-07-12 at 9.42.31 AM.png",
-    "media/Screen Shot 2022-07-12 at 8.37.51 AM.png"
+    "media/Screen Shot 2022-07-12 at 9.42.31 AM.png"
   ]
 }
