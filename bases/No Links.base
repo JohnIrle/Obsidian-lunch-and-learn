@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.links.isEmpty()
+    - '!file.path.contains("Calendar")'
+    - '!file.path.contains("Utilities")'
+    - '!file.path.contains("Atlas/Maps")'
+    - '!file.path.contains("Efforts")'
+    - '!file.path.contains("+")'
+views:
+  - type: table
+    name: No Links
+    order:
+      - file.name
+      - file.links
+    columnSize:
+      file.name: 555
+      file.links: 154

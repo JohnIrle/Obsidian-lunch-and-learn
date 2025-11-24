@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.folder == "+"
+formulas:
+  Days Alive: file.ctime.relative()
+  Untitled: file.basename
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.Days Alive
+    sort:
+      - property: formula.Days Alive
+        direction: DESC
+    limit: 10
+    columnSize:
+      file.name: 557

@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.links.contains(this.file)
+formulas:
+  time: file.ctime.relative()
+properties:
+  formula.time:
+    displayName: created
+views:
+  - type: table
+    name: Topic
+    order:
+      - file.name
+      - formula.time
+    sort:
+      - property: formula.time
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: complete
+        direction: ASC
+    columnSize:
+      file.name: 406

@@ -16,3 +16,5 @@ tags:
 - Do one thing 
 - Only have one declaration
 - Allow things to be more modular, which leads to less code in the long run
+
+![[Topics.base]]

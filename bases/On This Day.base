@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.name != this.file.name
+    - file.ctime <= date(this.file.name)
+    - or:
+        - file.ctime.format("MM-DD") == date(this.file.name).format("MM-DD")
+        - date(file.name).format("MM-DD") == date(this.file.name).format("MM-DD")
+formulas:
+  Year: file.ctime.format("YYYY")
+  Untitled: |
+    file.ctime.format("YYYY")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.Year
+    sort:
+      - property: formula.Year
+        direction: ASC
+    columnSize:
+      file.name: 615
+  - type: table
+    name: Notes
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

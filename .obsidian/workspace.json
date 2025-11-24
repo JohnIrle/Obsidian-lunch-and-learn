@@ -11,24 +11,17 @@
             "id": "e64abf449393e046",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Notes/Canvas Example.canvas",
+                "viewState": {
+                  "x": 715.6226160337551,
+                  "y": 390,
+                  "zoom": -1.6861655871589742
                 }
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Example"
             }
           }
         ]
@@ -133,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/Canvas Example.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +154,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Canvas Example"
             }
           }
         ]
@@ -176,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/Canvas Example.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Canvas Example"
             }
           }
         ]
@@ -197,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,17 +201,37 @@
   },
   "active": "e64abf449393e046",
   "lastOpenFiles": [
-    "Notes/Canvas Example.canvas",
-    "Notes/Andy's Mode (Depricated).md",
-    "Notes/Callout Reference.md",
-    "Notes/Canvas.md",
+    "Notes/Bases.md",
+    "Notes/Categories/Untitled.md",
+    "bases/Topics.base",
+    "media/Screenshot 2025-11-24 at 2.46.28 PM.png",
+    "Notes/Categories/CSS.md",
+    "media/Screenshot 2025-11-24 at 2.40.30 PM.png",
+    "bases/No Links.base",
+    "bases/Recently Added.base",
     "Notes/Code blocks.md",
+    "Notes/Canvas.md",
+    "Notes/Canvas Example.canvas",
+    "Notes/Callout Reference.md",
+    "Home.md",
+    "bases/Modified.base",
+    "bases/Created Today.base",
+    "bases/Calendar Reviews.base",
+    "bases/Efforts.base",
+    "bases/Lightning Rods of Thought.base",
+    "bases/On This Day.base",
+    "Notes/Categories/People.md",
+    "bases/Orphan Notes.base",
+    "People/@Eric Ries.md",
+    "Templates/Book (Template).md",
+    "Templates/Base Note (Template).md",
+    "Notes/Maps of Content.md",
+    "Notes/Andy's Mode (Depricated).md",
     "Notes/CSS  borders can be used to draw a triangle.md",
     "Notes/CSS Snippets.md",
     "Notes/Dataview.md",
     "Notes/Em Unit.md",
     "Notes/Embedding.md",
-    "Notes/Maps of Content.md",
     "Notes/Math.md",
     "Notes/Mermaid.md",
     "Notes/Note List Example.md",
@@ -226,15 +240,6 @@
     "Notes/Queries.md",
     "Notes/Rem Unit.md",
     "Notes/Shorthand CSS Rules Change Several Values.md",
-    "Notes/Tags.md",
-    "Notes/Templater.md",
-    "Notes/The CSS Mindset.md",
-    "People/@Eric Ries.md",
-    "Readwise/Books/The Lean Startup.md",
-    "Notes/Categories/Videos.md",
-    "Notes/Categories/People.md",
-    "Notes/Categories/Untitled",
-    "Notes/Categories",
     "media/tagpane.png",
     "media/Screen Shot 2022-07-12 at 9.42.31 AM.png",
     "media/Screen Shot 2022-07-12 at 8.37.51 AM.png"

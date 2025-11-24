@@ -1,0 +1,29 @@
+filters:
+  and:
+    - '!file.folder.startsWith("Atlas/Utilities")'
+    - '!file.folder.startsWith("Calendar")'
+formulas:
+  Age: file.mtime.relative()
+views:
+  - type: table
+    name: Recent
+    order:
+      - file.name
+      - formula.Age
+    sort:
+      - property: formula.Age
+        direction: DESC
+    limit: 10
+    columnSize:
+      file.name: 529
+  - type: table
+    name: Oldest
+    order:
+      - file.name
+      - formula.Age
+    sort:
+      - property: formula.Age
+        direction: ASC
+    limit: 10
+    columnSize:
+      file.name: 524

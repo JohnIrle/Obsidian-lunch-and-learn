@@ -5,3 +5,5 @@ tags:
 ---
 
 - [[People/@Eric Ries|Eric Ries]]
+
+![[People.base]]

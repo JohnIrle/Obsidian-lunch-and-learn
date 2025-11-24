@@ -1,0 +1,90 @@
+filters:
+  and:
+    - file.inFolder("People")
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+    sort: []
+    columnSize:
+      note.team: 135
+  - type: table
+    name: Web
+    filters:
+      and:
+        - team == "Web"
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: Agile Delivery
+    filters:
+      and:
+        - team == "Agile Delivery"
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: Leadership
+    filters:
+      and:
+        - team.contains("Leadership")
+    order:
+      - file.name
+      - aliases
+    columnSize: {}
+  - type: table
+    name: Data
+    filters:
+      and:
+        - team == "Data"
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: DevOps
+    filters:
+      and:
+        - team == "DevOps"
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: Gone
+    filters:
+      and:
+        - team == "Gone"
+  - type: table
+    name: No Team
+    filters:
+      and:
+        - team == "None"
+    order:
+      - file.name
+      - team
+  - type: table
+    name: Principal
+    filters:
+      and:
+        - team == "Principal"
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: Alert Infrastructure
+    filters:
+      and:
+        - team == "Alert Infrastructure"
+    order:
+      - file.name
+      - aliases
+    columnSize: {}
+  - type: table
+    name: Analytics
+    filters:
+      and:
+        - team == "Analytics"
+    order:
+      - file.name
+      - aliases

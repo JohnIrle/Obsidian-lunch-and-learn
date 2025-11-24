@@ -1,4 +1,5 @@
 
+- [[Bases]]
 - [[Obsidian Theme Demo File|Markdown]]
 - [[Callout Reference|Callouts]]
 - [[Code blocks]]
